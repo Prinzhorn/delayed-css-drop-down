@@ -1,6 +1,6 @@
 CSS drop down menus are nice. They don't require JavaScript and usually insist semantic markup.
 
-But the problem with CSS only menus is that they close as soon as your mouse leaves. This annoying, especially for multi-level drop down.
+But the problem with CSS only menus is that they close as soon as your mouse leaves. This is annoying, especially for multi-level drop downs.
 
 
 CSS transitions to the rescue
