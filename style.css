@@ -58,7 +58,7 @@ body {
 	padding:0;
 	margin:0;
 	z-index:1;
-	width:15em;
+	white-space:nowrap;
 
 	transition:         opacity 0s 1s, z-index 0s 1s;
 	-o-transition:      opacity 0s 1s, z-index 0s 1s;
